@@ -1,0 +1,5 @@
+ CRC            size              filename
+-------------------------------------------------------
+626704491	408832000	verdi_vVerdi3_L-2016.06-1_common.spf
+3769657820	1321943040	verdi_vVerdi3_L-2016.06-1_linux64.spf
+3423509045	975667200	verdi_vVerdi3_L-2016.06-1_linux.spf
